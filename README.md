@@ -1,7 +1,6 @@
-# Fresh project
+# Gifty.lol Google Docs
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+A simple page for the family secret Santa. This year using Google Docs, because Supabase has stopped working.
 
 ### Usage
 
@@ -14,3 +13,8 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+
+### Deploying
+
+Deployed using Deno Deploy.
