@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div class="px-4 py-8 mx-auto">
+    <div class="py-8 mx-auto">
       <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center">
         <img
           class="my-6"
@@ -10,9 +10,7 @@ export default function Home() {
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
         <iframe
-          className="h-svh"
-          width="640"
-          height="952"
+          className="min-h-[1400px] w-full"
           title="Secret santa form"
           src="https://docs.google.com/forms/d/e/1FAIpQLSdC1csSVNzAuBWzdHgsJi3lYAq3T0mGmxXWy5Z1A1CSP90KSQ/viewform?embedded=true"
           frameBorder="0"
